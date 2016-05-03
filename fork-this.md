@@ -75,29 +75,29 @@ That graze on the mountains so green.
 **------------ CHORUS ------------**
 
 ``
-This is just to [say](google.ca) that I edited this part in my text editor
-And pushed it through the Github app...
-Because that would make more people comfortable... maybe...?
-You wouldn't even need to interface w/ Github beyond the initial clone.
+This is just to [say](google.ca) that I edited this part in my text editor  
+And pushed it through the Github app...  
+Because that would make more people comfortable... maybe...?  
+You wouldn't even need to interface w/ Github beyond the initial clone.  
 
 ```
 
 
 **------------ CHORUS ------------**
 ```
-It's a cold Friday morn and wool socks need be worn
-To make sure your old toes don't turn blue
-The rain and the snow need to pack up and go
-'Cause it's April and we want something new.
+It's a cold Friday morn and wool socks need be worn  
+To make sure your old toes don't turn blue  
+The rain and the snow need to pack up and go  
+'Cause it's April and we want something new.  
 ```
  
 **------------ CHORUS ------------**
 
 ```
-Oh fork me some code like a palindrome node
-where it's fly, not dowdy or frayed.
-Where seldom there's Word, or a Micro$oft Nerd
-and the cry is never dismayed.
+Oh fork me some code like a palindrome node  
+where it's fly, not dowdy or frayed.  
+Where seldom there's Word, or a Micro$oft Nerd  
+and the cry is never dismayed.  
 ```
 
 **------------ CHORUS ------------**
